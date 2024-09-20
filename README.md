@@ -1,8 +1,7 @@
-## ❄️ Snowflake Click Effect ❄️
+# ❄️ Snowflake Click Effect ❄️
 
 This project includes a fun feature that creates snowflakes on a click event:
-## 📸 Screenshots 📸
-![](snow.gif)
+
 
 
 - **🖱️ Event Listener**: The script listens for click events on the document.
@@ -14,7 +13,8 @@ This project includes a fun feature that creates snowflakes on a click event:
 
 
 
-
+## 📸 Screenshots 📸
+![](snow.gif)
 
 
 
