@@ -3,6 +3,7 @@
 This project includes a fun feature that creates snowflakes on a click event:
 
 
+## Features
 
 - **🖱️ Event Listener**: The script listens for click events on the document.
 - **❄️ Create Snowflake**: When a click is detected, a `span` element is created to act as a snowflake.
